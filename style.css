@@ -9,6 +9,12 @@ body {
     margin: 70px;
 }
 
+.logo img{
+  height: 50px;
+  width: 50px;
+  margin-bottom: 20px;
+}
+
 h1{
     color: #194b85;
 }
